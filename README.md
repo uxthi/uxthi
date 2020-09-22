@@ -26,7 +26,8 @@
       <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/react%20-%230769ad.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;     
+      <img src="https://img.shields.io/badge/gatsby%20-%23339933.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />&nbsp;&nbsp;
     </p>
     </td>
     <td valign="top" width="50%">
@@ -48,7 +49,6 @@
     <h5>Frontend</h5>
     <p>
       <img src="https://img.shields.io/badge/next.js%20-%23339933.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/gatsby%20-%23339933.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />&nbsp;&nbsp;
     </p>
     </td>
     <td valign="top" width="70%">
