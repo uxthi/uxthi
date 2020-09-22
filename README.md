@@ -44,7 +44,7 @@
 
 <h4>🎮 Tired of coding? Let's play!</h4>
 <p align="left">
-  <a href="steamcommunity.com/id/xthiii/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/thiwtf"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
