@@ -3,10 +3,9 @@
 <p align='center'>
   I'm from <b>Rio de Janeiro</b>, currently living in <b>São Paulo - Brazil</b>! 
 </p>
-
-<!-- <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc"></a>
-</p> -->
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=juxthi.uxthi"></a>
+</p>
 
 
 <p align='center'>
