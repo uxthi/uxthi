@@ -42,9 +42,25 @@
 <hr>
 
 <h4>✨ I'm currently learning...</h4>
-<p>
-  <img src="https://img.shields.io/badge/graphql%20-%234d97ff.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+    <h5>Frontend</h5>
+    <p>
+      <img src="https://img.shields.io/badge/next.js%20-%23339933.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/gatsby%20-%23339933.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />&nbsp;&nbsp;
+    </p>
+    </td>
+    <td valign="top" width="50%">
+      <h5>Others</h5>
+        <p>
+          <img src="https://img.shields.io/badge/unity%20-%23339933.svg?&style=for-the-badge&logo=unity&logoColor=white" />&nbsp;&nbsp;&nbsp;
+          <img src="https://img.shields.io/badge/csharp%20-%23339933.svg?&style=for-the-badge&logo=c#&logoColor=white" />&nbsp;&nbsp;&nbsp; 
+          <img src="https://img.shields.io/badge/python%20-%23339933.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp; 
+        </p>
+    </td>
+   </tr>
+ </table>
 
 <hr>
 
