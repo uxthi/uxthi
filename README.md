@@ -45,13 +45,13 @@
 <h4>✨ I'm currently learning...</h4>
 <table>
   <tr>
-    <td valign="top" width="20%">
+    <td valign="top" width="10%">
     <h5>Frontend</h5>
     <p>
       <img src="https://img.shields.io/badge/next.js%20-%23339933.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
     </p>
     </td>
-    <td valign="top" width="70%">
+    <td valign="top" width="90%">
       <h5>Others</h5>
         <p>
           <img src="https://img.shields.io/badge/unity%20-%23339933.svg?&style=for-the-badge&logo=unity&logoColor=white" />&nbsp;&nbsp;&nbsp;
