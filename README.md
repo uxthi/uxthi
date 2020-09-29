@@ -1,7 +1,7 @@
 <h1 align='center'> console.log('Hi, i'm Thi!') 💻 </h1>
 
 <p align='center'>
-  I'm a developer and game designer from <b>Rio de Janeiro</b>, currently living in <b>São Paulo</b>! In the past few years, I designed textbooks for a MFA in Game Design and created amazing websites and dashboards. I'm also a full-time nerd and an experienced blogger with 4 Top Blogs Awards. Let's create amazing things together! :D
+  I'm a developer and game designer from <b>Rio de Janeiro</b>, currently living in <b>São Paulo</b>! In the past few years, I designed textbooks for a MFA in Game Design and created amazing websites and dashboards. I'm also a full-time nerd and an experienced writer and game designer with 4 Top Blogs Awards. Let's create amazing things together! :D
 </p>
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=juxthi.uxthi"></a>
