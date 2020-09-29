@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h5>Next challenges:</h5>
+      <h5>Next challenges~</h5>
       <p>
         <img src="https://img.shields.io/badge/next.js%20-%23339933.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/unity%20-%23339933.svg?&style=for-the-badge&logo=unity&logoColor=white" />&nbsp;&nbsp;&nbsp;
