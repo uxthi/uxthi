@@ -47,7 +47,6 @@
         <img src="https://img.shields.io/badge/next.js%20-%23339933.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/unity%20-%23339933.svg?&style=for-the-badge&logo=unity&logoColor=white" />&nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/csharp%20-%23339933.svg?&style=for-the-badge&logo=c#&logoColor=white" />&nbsp;&nbsp;&nbsp; 
-        <img src="https://img.shields.io/badge/python%20-%23339933.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp; 
       </p>
     </td>
    </tr>
