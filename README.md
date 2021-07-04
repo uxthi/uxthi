@@ -1,7 +1,7 @@
 <h1 align='center'> console.log('Hi, i'm Thi!') 💻 </h1>
 
 <p align='center'>
-  I'm a brazilian developer and game designer from <b>Rio de Janeiro</b>, currently living in <b>São Paulo</b>! In the past few years, I designed classbooks for a MFA in Game Design and created amazing websites and dashboards. I'm also a full-time nerd and an experienced writer with 4 Top Blogs Awards. Let's create amazing things! :D
+  I'm a brazilian developer and game designer from <b>Rio de Janeiro</b>, currently living in <b>São Paulo</b>! In the past few years, I designed classbooks for a MFA in Game Design and created amazing websites and dashboards. I'm also a full-time nerd and an experienced storyteller with 4 Top Blogs Awards. Let's create amazing things! :D
 </p>
 
 
@@ -30,6 +30,7 @@
         <p>
           <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
           <img src="https://img.shields.io/badge/sql%20-%234d97ff.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+          <img src="https://img.shields.io/badge/mongodb%20-%23e34f26.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
         </p>
     </td>
    </tr>
@@ -37,15 +38,14 @@
 
 <hr>
 
-<h4>✨ I'm currently learning...</h4>
+<h4>✨ What else can I do?</h4>
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h5>Next challenges~</h5>
+      <h5># Gamedev</h5>
       <p>
         <img src="https://img.shields.io/badge/unity%20-%23339933.svg?&style=for-the-badge&logo=unity&logoColor=white" />&nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/csharp%20-%23339933.svg?&style=for-the-badge&logo=c#&logoColor=white" />&nbsp;&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/mongodb%20-%23e34f26.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
       </p>
     </td>
    </tr>
