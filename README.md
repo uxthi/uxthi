@@ -1,7 +1,7 @@
 <h1 align='center'> console.log('Hi, i'm Thi!') 💻 </h1>
 
 <p align='center'>
-  I'm a brazilian developer and game designer from <b>Rio de Janeiro</b>, currently living in <b>São Paulo</b>! In the past few years, I designed classbooks for a MFA in Game Design and created amazing websites and dashboards. I'm also a full-time nerd and an experienced storyteller with 4 Top Blogs Awards. Let's create amazing things! :D
+  I'm a brazilian developer and game designer from <b>Rio de Janeiro</b>, currently living in <b>São Paulo</b>! In the past few years i've been working as a frontend developer focused on the finances market. I've also designed classbooks for a MFA in Game Design and created amazing websites and dashboards. I'm a full-time nerd and an experienced storyteller with 4 Top Blogs Awards. Let's create amazing things! :D
 </p>
 
 
