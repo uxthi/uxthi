@@ -21,7 +21,9 @@
       <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/typescript%20-%230769ad.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/react%20-%230769ad.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/next%20-%230769ad.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;     
     </p>
     </td>
@@ -29,7 +31,7 @@
       <h5>Backend</h5>
         <p>
           <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-          <img src="https://img.shields.io/badge/sql%20-%234d97ff.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+          <img src="https://img.shields.io/badge/express%20-%230769ad.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
           <img src="https://img.shields.io/badge/mongodb%20-%23e34f26.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
         </p>
     </td>
