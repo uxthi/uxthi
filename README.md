@@ -4,7 +4,6 @@
   I'm a brazilian developer and game designer from <b>Rio de Janeiro</b>, currently living in <b>São Paulo</b>! In the past few years i've been working as a frontend developer focused on the finances market. I've also designed classbooks for a MFA in Game Design and created amazing websites and dashboards. I'm a full-time nerd and an experienced storyteller with 4 Top Blogs Awards. Let's create amazing things! :D
 </p>
 
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/gamedesignbrasil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:thiago@spelbook.com.brb?subject=Oi%20Thi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,4 +53,6 @@
  </table>
 
 <hr>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/uxthi/uxthi/blob/master/devcard.svg" width="350" alt="Thiago Fernandes Dev Card"/></a>
 
